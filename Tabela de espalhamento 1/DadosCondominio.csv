@@ -1,0 +1,81 @@
+﻿Numero,Nome,Modelo,Placa,Cor
+102,Sofia, Camry, ABC-1234,Vermelho
+103,Gabriel, Civic, DEF-5678,Azul
+104,Isabella, Accord, GHI-9012,Amarelo
+105,Lucas, Corolla, JKL-3456,Verde
+106,Manuela, CR-V, MNO-7890,Preto
+201,Pedro, Fit, PQR-2345,Branco
+202,Laura, Pilot, STU-6789,Laranja
+203,Miguel, Odyssey, VWX-0123,Rosa
+204,Valentina, Mustang, YZA-4567,Roxo
+205,Arthur, F-150, BCD-8901,Cinza
+206,Júlia, Explorer, EFG-2345,Vermelho
+207,Enzo, Focus, HIJ-6789,Azul
+208,Heloísa, Fusion, KLM-0123,Amarelo
+302,Bernardo, Escape, NOP-4567,Verde
+303,Luiza, Edge, QRS-8901,Preto
+304,Heitor, Silverado, TUV-2345,Branco
+305,Beatriz, Equinox, WXY-6789,Laranja
+306,Davi, Malibu, ZAB-0123,Rosa
+307,Maria, Impala, CDE-4567,Roxo
+308,Matheus, Tahoe, FGH-8901,Cinza
+309,Alice, Camry, IJK-2345,Vermelho
+310,Rafael, Civic, LMN-6789,Azul
+401,Lara, Accord, OPQ-0123,Amarelo
+402,João, Corolla, RST-4567,Verde
+403,Laura, CR-V, UVW-8901,Preto
+404,Felipe, Fit, XYZ-2345,Branco
+405,Sophia, Pilot, ABC-6789,Laranja
+406,Samuel, Odyssey, DEF-0123,Rosa
+407,Giovanna, Mustang, GHI-4567,Roxo
+501,Enzo Gabriel, F-150, JKL-8901,Cinza
+502,Maria Eduarda, Explorer, MNO-2345,Vermelho
+503,Daniel, Focus, PQR-6789,Azul
+504,Alice, Fusion, STU-0123,Amarelo
+505,Joaquim, Escape, VWX-4567,Verde
+506,Ana Clara, Edge, YZA-8901,Preto
+507,Pedro Henrique, Silverado, BCD-2345,Branco
+508,Maria Clara, Equinox, EFG-6789,Laranja
+509,Miguel, Malibu, HIJ-0123,Rosa
+510,Isabelly, Impala, KLM-4567,Roxo
+601,Benjamin, Tahoe, NOP-8901,Cinza
+602,Ana Luiza, Camry, QRS-2345,Vermelho
+603,Murilo, Civic, TUV-6789,Azul
+604,Lívia, Accord, WXY-0123,Amarelo
+605,Gustavo, Corolla, ZAB-4567,Verde
+606,Mariana, CR-V, CDE-8901,Preto
+607,Matheus Henrique, Fit, FGH-2345,Branco
+608,Emanuelly, Pilot, IJK-6789,Laranja
+609,Henrique, Odyssey, LMN-0123,Rosa
+610,Yasmin, Mustang, OPQ-4567,Roxo
+705,Gustavo Henrique, F-150, RST-8901,Cinza
+706,Letícia, Explorer, UVW-2345,Vermelho
+707,Bryan, Focus, XYZ-6789,Azul
+708,Gabriela, Fusion, ABC-0123,Amarelo
+709,Cauã, Escape, DEF-4567,Verde
+801,Vitória, Edge, GHI-8901,Preto
+802,Eduardo, Silverado, JKL-2345,Branco
+803,Sofia, Equinox, MNO-6789,Laranja
+804,Leonardo, Malibu, PQR-0123,Rosa
+805,Lara, Impala, STU-4567,Roxo
+806,Enzo Gabriel, Tahoe, VWX-8901,Cinza
+807,Ana Júlia, Camry, YZA-2345,Vermelho
+808,Pietro, Civic, BCD-6789,Azul
+809,Yasmin, Accord, EFG-0123,Amarelo
+810,João Miguel, Corolla, HIJ-4567,Verde
+901,Maria Vitória, CR-V, KLM-8901,Preto
+902,Cauã, Fit, NOP-2345,Branco
+903,Ana Laura, Pilot, QRS-6789,Laranja
+904,Antônio, Odyssey, TUV-0123,Rosa
+906,Lavínia, Mustang, WXY-4567,Roxo
+908,Lucca, F-150, ZAB-8901,Cinza
+909,Isadora, Explorer, CDE-2345,Vermelho
+910,Anthony, Focus, FGH-6789,Azul
+1001,Estela, Fusion, IJK-0123,Amarelo
+1002,Benjamin, Escape, LMN-4567,Verde
+1003,Aurora, Edge, OPQ-8901,Preto
+1004,Francisco, Silverado, RST-2345,Branco
+1005,Melissa, Equinox, UVW-6789,Laranja
+1006,Vicente, Malibu, XYZ-0123,Rosa
+1007,Maria Luiza, Impala, ABC-4567,Roxo
+1008,Caio, Tahoe, DEF-8901,Cinza
